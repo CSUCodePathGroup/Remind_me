@@ -1,4 +1,4 @@
-# Milestone 2 - Remind Me
+# Milestone 3 - Remind Me
 
 ## Table of Contents
 
