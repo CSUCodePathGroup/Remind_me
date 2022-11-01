@@ -1,4 +1,4 @@
-# Milestone 3 - Remind Me
+# Milestone 4 - Remind Me
 
 ## Table of Contents
 
@@ -29,6 +29,7 @@ Prompts the user to enter a task or a chore along with the date and time that th
 **Required Features**
 
 * [X] Activities created for app functionality.
+* [X] Populate view.
 * [X] Database created for the app.
 * [X] User can enter reminder, time, and date.
 * [ ] Application can send a pop notification/ alarm when the date and time are satisfied.
