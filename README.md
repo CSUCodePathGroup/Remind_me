@@ -1,4 +1,4 @@
-# Milestone 4 - Remind Me
+# Milestone 5 - Remind Me
 
 ## Table of Contents
 
@@ -32,6 +32,7 @@ Prompts the user to enter a task or a chore along with the date and time that th
 * [X] Populate view.
 * [X] Database created for the app.
 * [X] User can enter reminder, time, and date.
+* [X] Customize UI
 * [ ] Application can send a pop notification/ alarm when the date and time are satisfied.
 * [X] A log fragment can be seen for a list of reminders and another for adding a new reminder.
 
