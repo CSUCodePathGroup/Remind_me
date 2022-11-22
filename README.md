@@ -37,7 +37,7 @@ Prompts the user to enter a task or a chore along with the date and time that th
 * [ ] Incorporate code into reminder app.
 * [X] A log fragment can be seen for a list of reminders and another for adding a new reminder.
 
-<img src='https://www.youtube.com/watch?v=g0tSo2X3lq0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.youtube.com/watch?v=g0tSo2X3lq0' title='YouTube video of demo' width='' alt='Video Walkthrough' />
 
 **Stretch Features**
 
