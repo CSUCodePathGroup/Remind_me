@@ -1,4 +1,4 @@
-# Milestone 6 - Remind Me
+# Milestone 7 - Remind Me
 
 ## Table of Contents
 
@@ -33,7 +33,8 @@ Prompts the user to enter a task or a chore along with the date and time that th
 * [X] Database created for the app.
 * [X] User can enter reminder, time, and date.
 * [X] Change the time and date formate to text instead of spinner.
-* [ ] Application can send a pop notification/ alarm when the date and time are satisfied.
+* [X] Code written for the alarm.
+* [ ] Incorporate code into reminder app.
 * [X] A log fragment can be seen for a list of reminders and another for adding a new reminder.
 
 <img src='Week12-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
